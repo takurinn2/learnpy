@@ -1,1 +1,2 @@
 shift + tab 快捷缩进
+command f
